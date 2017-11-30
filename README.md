@@ -1,1 +1,0 @@
-"# LMGSI-Practica09"
